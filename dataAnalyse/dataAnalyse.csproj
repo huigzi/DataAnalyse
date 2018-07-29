@@ -64,6 +64,8 @@
     </Compile>
     <Compile Include="DataClass\BlockDescription.cs" />
     <Compile Include="DataClass\RecordHeader.cs" />
+    <Compile Include="DataClass\ScanInfo.cs" />
+    <Compile Include="DataClass\VelocityDataBlock.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
